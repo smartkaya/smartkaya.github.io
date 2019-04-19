@@ -94,11 +94,6 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
-# Sidebar settings
-sidebar: true                           # 是否开启侧边栏.
-sidebar-about-description: "说点装逼的话。。。"
-sidebar-avatar:/img/avatar-m.JPG      # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
-
 # Friends
 # friends: [
 #     {
